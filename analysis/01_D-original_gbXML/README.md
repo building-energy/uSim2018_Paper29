@@ -12,4 +12,6 @@ The file includes:
  - schedules
  - electric room heaters
  
- Open the file to view the exact details of the house.
+The file was created by developing the model of the house in the IES software, exporting the IES model as a gbXML file and then modifying the file to add in extra elements such as the schedules and electric room heaters. 
+ 
+Open the file to view the exact details of the house.
