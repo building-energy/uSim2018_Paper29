@@ -1,15 +1,9 @@
-# uSim_2018/analysis/1_file-original_gbXML
+# uSim2018_Paper29/analysis/openbuilding
 
-This folder contains the 'detached_house.gbxml' gbXML file which gives a description of a detached house.
+This folder contains a prototype Python package called 'openbuilding'. The package is incomplete, not fully documented and at an early stage of development. It is provided here as a local folder so that the code used in the analysis for this paper can import the package and make use of the data structures and methods.
 
-This house is based on the detached house in the publication from Allen and Pinney.
+The package creates its own internal data structure based on the graph data structure, and uses this to store and manipulate gbXML and EnergyPlus files. A new graph-based data structure is created that can hold building information and time-series data in the same data structure.
 
-The file includes:
- - geometry
- - constructions
- - internal heat gains (people, lights and appliances)
- - infiltration
- - schedules
- - electric room heaters
- 
- Open the file to view the exact details of the house.
+Since the uSim paper was written, it is not clear if this package will be developed further or if a new approach will be taken instead. 
+
+
