@@ -7,3 +7,4 @@ For each simulation, the following results are saved:
 - a openbuilding.BimGraph object as a .pickle file
 - a .graphml file (for use in Gephi for visualising the graph)
 
+The weather file used by EnergyPlus is also placed in this folder.
