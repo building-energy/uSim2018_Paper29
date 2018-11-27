@@ -1,15 +1,5 @@
-# uSim_2018/analysis/1_file-original_gbXML
+# uSim2018_Paper29/analysis/FIGURE_bim_gephi
 
-This folder contains the 'detached_house.gbxml' gbXML file which gives a description of a detached house.
+This folder contains figures created by the Gephi software which are used in the paper.
 
-This house is based on the detached house in the publication from Allen and Pinney.
-
-The file includes:
- - geometry
- - constructions
- - internal heat gains (people, lights and appliances)
- - infiltration
- - schedules
- - electric room heaters
- 
- Open the file to view the exact details of the house.
+Here Gephi has been used to open one of the .graphml file and a visualisation of the graph has been made and saved as an image.
