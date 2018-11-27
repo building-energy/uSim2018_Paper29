@@ -1,15 +1,9 @@
-# uSim_2018/analysis/1_file-original_gbXML
+# uSim2018_Paper29/analysis/04_C-run_energyplus
 
-This folder contains the 'detached_house.gbxml' gbXML file which gives a description of a detached house.
+This folder contains the '04_C-run_energyplus.ipynb' file which runs an EnergyPlus simulation for each of the 72 modified gbXML files.
 
-This house is based on the detached house in the publication from Allen and Pinney.
+For each simulation, the following results are saved:
+- the complete outputs from EnergyPlus
+- a openbuilding.BimGraph object as a .pickle file
+- a .graphml file (for use in Gephi for visualising the graph)
 
-The file includes:
- - geometry
- - constructions
- - internal heat gains (people, lights and appliances)
- - infiltration
- - schedules
- - electric room heaters
- 
- Open the file to view the exact details of the house.
