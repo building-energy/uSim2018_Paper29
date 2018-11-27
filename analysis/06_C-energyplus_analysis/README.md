@@ -1,15 +1,3 @@
-# uSim_2018/analysis/1_file-original_gbXML
+# uSim2018_Paper29/analysis/06_C-energyplus_analysis
 
-This folder contains the 'detached_house.gbxml' gbXML file which gives a description of a detached house.
-
-This house is based on the detached house in the publication from Allen and Pinney.
-
-The file includes:
- - geometry
- - constructions
- - internal heat gains (people, lights and appliances)
- - infiltration
- - schedules
- - electric room heaters
- 
- Open the file to view the exact details of the house.
+This folder contains the '06_C-energyplus_analysis.ipynb' Jupyter notebook which is used to analyse the EnergyPlus results and to create the two figures used in the paper.
