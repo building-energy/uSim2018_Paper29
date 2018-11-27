@@ -1,4 +1,4 @@
-# uSim_2018/analysis/1_file-original_gbXML
+# uSim2018_Paper29/analysis/01_D-original_gbXML
 
 This folder contains the 'detached_house.gbxml' gbXML file which gives a description of a detached house.
 
