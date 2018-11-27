@@ -1,4 +1,4 @@
-# uSim_2018
+# uSim2018_Paper29
 Analysis for Paper 29 of the uSim 2018 conference - Urban Energy Simulation - Glasgow, 29-30 Nov 2018
 
 This GitHub repository contains all the code used in the paper: 
